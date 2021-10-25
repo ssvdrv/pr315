@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pr-25</string>
+    <string name="plus_txt">+</string>
+    <string name="minus_txt">-</string>
+    <string name="star_txt">*</string>
+    <string name="divide_txt">/</string>
+</resources>
